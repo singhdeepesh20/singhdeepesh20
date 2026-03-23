@@ -14,7 +14,7 @@ Building intelligent systems powered by **Transformers, Foundation Models, and M
 
 ## About
 
-I am a Computer Science student focused on **Artificial Intelligence, Deep Learning, and Robotics**, with a strong emphasis on **Transformer-based systems and next-generation foundation models**.
+I am a AI & Robotics Science student focused on **Artificial Intelligence, Deep Learning, and Robotics**, with a strong emphasis on **Transformer-based systems and next-generation foundation models**.
 
 I approach AI with a **first-principles + systems mindset**, aiming to build models that not only learn, but **reason, adapt, and act in real-world environments**.
 

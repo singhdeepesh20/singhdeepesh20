@@ -1,8 +1,12 @@
 <div align="center">
 
+<div align="center">
+
 # Deepesh Singh
 
 ### AI & Robotics Engineer (Student)
+
+</div>
 
 Building intelligent systems powered by **Transformers, Foundation Models, and Multimodal AI**
 
@@ -100,24 +104,29 @@ Agentic AI | Robotics Intelligence
 
 ## Current Focus
 
-* Advanced Transformer systems
-* Efficient LLMs & fine-tuning
-* Multimodal AI (VLM → VLA evolution)
-* Agentic AI architectures
-* AI + Robotics integration
+* Advancing practical understanding of **Transformer architectures and attention mechanisms**
+* Implementing and experimenting with **LLMs and efficient fine-tuning techniques**
+* Exploring **multimodal systems (VLMs → VLA)** for real-world intelligence
+* Building **scalable and production-oriented ML pipelines**
+* Developing **agentic AI systems with reasoning, planning, and tool integration**
+* Bridging **AI models with robotics (perception → decision → action systems)**
 
 ---
 
 ## Career Direction
 
-I am seeking **AI Engineer / Machine Learning Engineer internships** where I can contribute to the design and development of:
+I am targeting roles as an **AI Engineer / Machine Learning Engineer** focused on building **state-of-the-art intelligent systems at scale**.
 
-* Transformer-based architectures and foundation models
-* Scalable machine learning systems
-* Multimodal AI (LLMs, VLMs, VLA systems)
-* Intelligent and autonomous AI agents
+My goal is to contribute to:
 
-I aim to work in environments that emphasize **strong engineering practices, research-driven development, and real-world impact**, while continuously advancing my expertise in modern AI systems.
+* Advancing **Transformer architectures and foundation models** beyond standard implementations
+* Engineering **high-performance, production-grade ML systems**
+* Pushing the boundaries of **multimodal intelligence (LLMs, VLMs, VLA systems)**
+* Developing **autonomous AI systems capable of reasoning, planning, and real-world interaction**
+
+I aim to work with **high-caliber teams operating at the frontier of AI**, where expectations are rigorous, systems are built for scale, and innovation is driven by both **deep technical understanding and execution excellence**.
+
+Long-term, I am focused on becoming a **top-tier AI engineer contributing to cutting-edge research and building transformative AI systems**.
 
 ---
 

@@ -14,7 +14,7 @@ Building intelligent systems powered by **Transformers, Foundation Models, and M
 
 ## About
 
-I am a AI & Robotics Science student focused on **Artificial Intelligence, Deep Learning, and Robotics**, with a strong emphasis on **Transformer-based systems and next-generation foundation models**.
+I am a AI & Robotics student focused on **Artificial Intelligence, Deep Learning, and Robotics**, with a strong emphasis on **Transformer-based systems and next-generation foundation models**.
 
 I approach AI with a **first-principles + systems mindset**, aiming to build models that not only learn, but **reason, adapt, and act in real-world environments**.
 
@@ -78,12 +78,14 @@ Agentic AI | Robotics Intelligence
 * Real-time system thinking
 * Embedded AI integration (ESP32 exposure)
 
-### Tools
+### Tools & Frameworks
 
-* Python
+* TensorFlow, PyTorch (learning + implementation level)
+* Hugging Face Transformers
+* LangChain ecosystem
 * NumPy, Pandas
-* Git, GitHub
-* Jupyter, VS Code
+* Jupyter Notebook (experimentation & prototyping)
+* Git & GitHub (version control for ML systems)
 
 ---
 
@@ -108,12 +110,14 @@ Agentic AI | Robotics Intelligence
 
 ## Career Direction
 
-I am actively seeking **AI/ML, Deep Learning, or Robotics internships** where I can contribute to:
+I am seeking **AI Engineer / Machine Learning Engineer internships** where I can contribute to the design and development of:
 
-* Transformer-based systems
-* Large-scale AI models
-* Multimodal intelligence
-* Autonomous AI systems
+* Transformer-based architectures and foundation models
+* Scalable machine learning systems
+* Multimodal AI (LLMs, VLMs, VLA systems)
+* Intelligent and autonomous AI agents
+
+I aim to work in environments that emphasize **strong engineering practices, research-driven development, and real-world impact**, while continuously advancing my expertise in modern AI systems.
 
 ---
 
@@ -122,19 +126,3 @@ I am actively seeking **AI/ML, Deep Learning, or Robotics internships** where I 
 ### "Building systems that learn, reason, and act."
 
 </div>
-## Hi there 👋
-
-<!--
-**singhdeepesh20/singhdeepesh20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -30,7 +30,7 @@ I implement before I use a library. I read the paper before the explanation of t
 
 ## Stack
 
-PyTorch · Hugging Face Transformers · FastAPI · PostgreSQL · Redis · Docker
+Python · PyTorch · Hugging Face Transformers · FastAPI · PostgreSQL · Redis · Qdrant · LangGraph · vLLM · Docker · Kubernetes · Apache Kafka · MLflow · Weights & Biases · GitHub Actions · AWS
 
 ## Direction
 

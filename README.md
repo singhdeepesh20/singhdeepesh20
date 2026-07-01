@@ -2,7 +2,7 @@
 
 # Deepesh Singh
 
-LLM systems and AI infrastructure engineerin
+LLM systems and AI infrastructure engineering
 
 [LinkedIn](https://www.linkedin.com/in/contactdeepesh)
 

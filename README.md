@@ -8,7 +8,7 @@ LLM systems and AI infrastructure engineering
 
 </div>
 
----
+--
 
 I learn AI systems by implementing them, not by using them. Most of what's below started as a paper I didn't fully understand until I built it from scratch.
 

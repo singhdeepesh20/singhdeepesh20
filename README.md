@@ -10,9 +10,9 @@ I don't trust an abstraction until I've built it myself. Every system below star
 
 ### Building
 
-**Production multi-turn chat system** — SSE streaming, context window management, prompt caching, token accounting, rate limiting, full observability stack. Handles [X concurrent users / X req/sec] at [Xms p99 latency]. Built as infrastructure, not a demo — designed for the failure modes that only show up after real users hit it.
+### Building
 
-*(Swap in your real numbers here — load-tested throughput, latency percentiles, cost-per-request reduction, uptime. This one line does more for you than the rest of the page combined.)*
+I build the parts of AI systems that don't show up in a demo — streaming, context management, caching, rate limiting, observability — because that's the layer that decides whether something survives contact with real users. A model that works once in a notebook and a system that holds up under production traffic are different problems, and I'm more interested in the second one.
 
 ### Technical focus
 

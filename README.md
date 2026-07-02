@@ -12,19 +12,19 @@ LLM systems and AI infrastructure engineering
 
 I learn AI systems by implementing them, not by using them. Most of what's below started as a paper I didn't fully understand until I built it from scratch.
 
-## Building
+### Building
 
 **Production multi-turn chat system** — SSE streaming, context window management, prompt caching, token accounting, rate limiting, full observability stack. Built to production standards, not as a tutorial exercise.
 
 
-## Technical focus
+### Technical focus
 
 Transformer internals — attention, positional encoding, KV cache — implemented from the paper, not just used through a library
 LLM inference and serving — continuous batching, PagedAttention, quantization, production deployment
 Training pipelines — fine-tuning, RLHF/DPO, distributed training fundamentals
 AI safety infrastructure — classifier cascades, evaluation harnesses, failure mode analysis
 
-## How I work
+### How I work
 
 I implement before I use a library. I read the paper before the explanation of the paper. When something breaks, I document what I learned — the debugging process usually teaches more than the working code does.
 

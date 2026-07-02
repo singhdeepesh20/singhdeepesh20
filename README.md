@@ -34,4 +34,4 @@ Python · PyTorch · Hugging Face Transformers · FastAPI · PostgreSQL · Redis
 
 ## Direction
 
-Working toward a role building production-grade LLM infrastructure — inference systems, training pipelines, and AI safety tooling at a frontier AI lab.
+

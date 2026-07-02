@@ -34,4 +34,6 @@ Python · PyTorch · Hugging Face Transformers · FastAPI · PostgreSQL · Redis
 
 ## Direction
 
+Working toward a role building production-grade LLM infrastructure—inference systems, training pipelines, distributed AI systems, and AI safety tooling at leading AI companies such as OpenAI, Anthropic, Google DeepMind, xAI, Meta AI, NVIDIA, Microsoft AI, Amazon AGI, Mistral AI, and Cohere.
+
 

@@ -8,7 +8,7 @@ AI Product Engineer — building the LLM systems users actually touch
 
 I don't trust an abstraction until I've built it myself. Every system below started as a paper I didn't fully understand — I only understood it once I'd implemented it, broken it, and rebuilt it against real traffic.
 
-### 
+
 
 ### Building
 

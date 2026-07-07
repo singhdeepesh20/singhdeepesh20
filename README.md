@@ -12,14 +12,6 @@
 
 ---
 
-<div align="center">
-
-# Deepesh Singh
-
-### AI Product Engineer — building the LLM systems users actually touch
-
-[LinkedIn](https://www.linkedin.com/in/contactdeepesh)
-
 </div>
 
 I don't trust an abstraction until I've built it myself. Every system below started as a paper I didn't fully understand—I only understood it once I'd implemented it, broken it, and rebuilt it against real traffic.
@@ -36,11 +28,15 @@ A model that works once in a notebook and a system that holds up under productio
 
 ## Technical Focus
 
-- **LLM Application Architecture** — chat orchestration, streaming UX, multi-turn memory, prompt pipelines, session management, and scalable backend design.
-- **Inference Systems & Performance** — continuous batching, quantization, KV cache optimization, caching strategies, and low-latency inference.
-- **Retrieval & Agentic AI** — RAG pipelines, vector databases, tool calling, multi-agent workflows, LangGraph, and autonomous reasoning systems.
-- **Evaluation & Reliability** — automated evaluation pipelines, hallucination detection, regression testing, observability, tracing, and production monitoring.
-- **AI Infrastructure** — FastAPI services, Docker, Kubernetes, Kafka, Redis, PostgreSQL, distributed systems, CI/CD, and cloud deployment.
+ **LLM Application Architecture** — chat orchestration, streaming UX, multi-turn memory, prompt pipelines, session management, and scalable backend design.
+  
+ **Inference Systems & Performance** — continuous batching, quantization, KV cache optimization, caching strategies, and low-latency inference.
+ 
+ **Retrieval & Agentic AI** — RAG pipelines, vector databases, tool calling, multi-agent workflows, LangGraph, and autonomous reasoning systems.
+  
+ **Evaluation & Reliability** — automated evaluation pipelines, hallucination detection, regression testing, observability, tracing, and production monitoring.
+ 
+ **AI Infrastructure** — FastAPI services, Docker, Kubernetes, Kafka, Redis, PostgreSQL, distributed systems, CI/CD, and cloud deployment.
 
 ---
 
@@ -54,53 +50,6 @@ When something breaks in production, I write down what I learned. That's where t
 
 ---
 
-## Stack
-
-**Languages**
-
-Python • SQL • Bash
-
-**Machine Learning**
-
-PyTorch • Hugging Face Transformers • Scikit-learn • MLflow • Weights & Biases
-
-**LLM & Generative AI**
-
-LangChain • LangGraph • vLLM • Ollama • Qdrant • FAISS • RAG • Agentic AI
-
-**Backend**
-
-FastAPI • PostgreSQL • Redis • Kafka • REST APIs
-
-**Infrastructure**
-
-Docker • Kubernetes • GitHub Actions • AWS • Linux
-
----
-
-## Direction
-
-Building AI-native products and production-grade LLM systems—chat applications, AI agents, retrieval systems, inference infrastructure, and developer tools—at product-focused AI companies including:
-
-- OpenAI
-- Anthropic
-- Google DeepMind
-- Microsoft AI
-- Perplexity AI
-- Cursor (Anysphere)
-- Notion AI
-- Figma AI
-- NVIDIA
-- Meta AI
-- xAI
-- Mistral AI
-- Cohere
-- Together AI
-- Hugging Face
-
-or any team building AI products used by millions of people.
-
----
 
 # Stack
 

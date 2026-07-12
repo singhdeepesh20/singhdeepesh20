@@ -1,0 +1,305 @@
+<svg viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="pulseGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00c6ff"/>
+<stop offset="100%" stop-color="#58a6ff"/>
+</linearGradient>
+</defs>
+<rect width="720" height="260" fill="#0d1117"/>
+<text x="360" y="26" fill="#e6edf3" font-family="Fira Code, monospace" font-size="15" font-weight="600" text-anchor="middle">forward pass, on loop</text>
+<path id="conn1" d="M80,90.0 L280,70.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn1"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn2" d="M80,90.0 L280,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn2"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn3" d="M80,90.0 L280,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn3"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn4" d="M80,90.0 L280,190.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn4"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn5" d="M80,130.0 L280,70.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn5"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn6" d="M80,130.0 L280,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn6"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn7" d="M80,130.0 L280,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn7"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn8" d="M80,130.0 L280,190.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn8"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn9" d="M80,170.0 L280,70.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn9"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn10" d="M80,170.0 L280,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn10"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn11" d="M80,170.0 L280,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn11"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn12" d="M80,170.0 L280,190.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="0s">
+    <mpath href="#conn12"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<path id="conn13" d="M280,70.0 L480,70.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn13"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn14" d="M280,70.0 L480,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn14"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn15" d="M280,70.0 L480,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn15"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn16" d="M280,70.0 L480,190.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn16"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn17" d="M280,110.0 L480,70.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn17"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn18" d="M280,110.0 L480,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn18"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn19" d="M280,110.0 L480,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn19"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn20" d="M280,110.0 L480,190.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn20"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn21" d="M280,150.0 L480,70.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn21"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn22" d="M280,150.0 L480,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn22"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn23" d="M280,150.0 L480,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn23"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn24" d="M280,150.0 L480,190.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn24"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn25" d="M280,190.0 L480,70.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn25"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn26" d="M280,190.0 L480,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn26"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn27" d="M280,190.0 L480,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn27"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn28" d="M280,190.0 L480,190.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="1.2s">
+    <mpath href="#conn28"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<path id="conn29" d="M480,70.0 L660,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="2.4s">
+    <mpath href="#conn29"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<path id="conn30" d="M480,70.0 L660,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="2.4s">
+    <mpath href="#conn30"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<path id="conn31" d="M480,110.0 L660,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="2.4s">
+    <mpath href="#conn31"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<path id="conn32" d="M480,110.0 L660,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="2.4s">
+    <mpath href="#conn32"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<path id="conn33" d="M480,150.0 L660,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="2.4s">
+    <mpath href="#conn33"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<path id="conn34" d="M480,150.0 L660,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="2.4s">
+    <mpath href="#conn34"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<path id="conn35" d="M480,190.0 L660,110.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="2.4s">
+    <mpath href="#conn35"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<path id="conn36" d="M480,190.0 L660,150.0" stroke="#21262d" stroke-width="1" fill="none"/>
+<circle r="3" fill="url(#pulseGrad)">
+  <animateMotion dur="3.5999999999999996s" repeatCount="indefinite" begin="2.4s">
+    <mpath href="#conn36"/>
+  </animateMotion>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.85;1" dur="1.2s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="80" cy="90.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="80" cy="130.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="80" cy="170.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="280" cy="70.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="280" cy="110.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="280" cy="150.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="280" cy="190.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="0s" repeatCount="indefinite"/>
+</circle>
+<circle cx="480" cy="70.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="480" cy="110.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="480" cy="150.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="480" cy="190.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="1.2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="660" cy="110.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="660" cy="150.0" r="9" fill="#161b22" stroke="#00c6ff" stroke-width="1.5">
+  <animate attributeName="fill" values="#161b22;#00c6ff;#161b22" keyTimes="0;0.15;1" dur="3.5999999999999996s" begin="2.4s" repeatCount="indefinite"/>
+</circle>
+<text x="80" y="240" fill="#8b949e" font-family="Fira Code, monospace" font-size="12" text-anchor="middle">input</text>
+<text x="280" y="240" fill="#8b949e" font-family="Fira Code, monospace" font-size="12" text-anchor="middle">hidden</text>
+<text x="480" y="240" fill="#8b949e" font-family="Fira Code, monospace" font-size="12" text-anchor="middle">hidden</text>
+<text x="660" y="240" fill="#8b949e" font-family="Fira Code, monospace" font-size="12" text-anchor="middle">output</text>
+</svg>

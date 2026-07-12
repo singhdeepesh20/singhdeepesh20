@@ -1,54 +1,91 @@
-<div align="center">
+<<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Deepesh%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Product%20Engineer%20—%20building%20the%20LLM%20systems%20users%20actually%20touch&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,25:7C4DFF,50:00C6FF,75:00E5A0,100:FFB347&height=220&section=header&text=Deepesh%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Product%20Engineer%20—%20building%20the%20LLM%20systems%20users%20actually%20touch&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/contactdeepesh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00E5A0?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=I+don't+trust+an+abstraction+until+I've+built+it+myself.;Every+system+below+started+as+a+paper+I+didn't+fully+understand.;I+only+understood+it+once+I'd+broken+it+and+rebuilt+it." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&colorA=FF6EC7&colorB=00C6FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=I+don't+trust+an+abstraction+until+I've+built+it+myself.;Every+system+below+started+as+a+paper+I+didn't+fully+understand.;I+only+understood+it+once+I'd+broken+it+and+rebuilt+it." alt="Typing SVG" />
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:7C4DFF,100:00C6FF&height=4&section=header" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&section=header" width="100%"/>
-
-## Building
+## 🌈 About
 
 I build the parts of AI systems that don't show up in a demo—streaming, context management, caching, rate limiting, observability, and deployment—because that's the layer that decides whether something survives contact with real users.
 
 A model that works once in a notebook and a system that holds up under production traffic are different problems, and I'm more interested in the second one.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&section=header" width="100%"/>
+I build things myself before reaching for a library. I read the paper before the explainer because the tradeoffs live in the paper, not the summary. When something breaks in production, I write down what I learned — that's where the real engineering lessons are.
 
-## Technical Focus
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:00E5A0,100:FFB347&height=4&section=header" width="100%"/>
+</div>
 
-**LLM Application Architecture** — chat orchestration, streaming UX, multi-turn memory, prompt pipelines, session management, and scalable backend design.
+## 🎯 Focus Areas
 
-**Inference Systems & Performance** — continuous batching, quantization, KV cache optimization, caching strategies, and low-latency inference.
+| | |
+|---|---|
+| 🧠 **LLM Application Architecture** | chat orchestration, streaming UX, multi-turn memory, prompt pipelines |
+| ⚡ **Inference Systems & Performance** | continuous batching, quantization, KV cache optimization, low-latency inference |
+| 🔍 **Retrieval & Agentic AI** | RAG pipelines, vector databases, tool calling, multi-agent workflows, LangGraph |
+| 📊 **Evaluation & Reliability** | automated eval pipelines, hallucination detection, observability, tracing |
+| 🏗️ **AI Infrastructure** | FastAPI, Docker, Kubernetes, Kafka, Redis, PostgreSQL, CI/CD |
 
-**Retrieval & Agentic AI** — RAG pipelines, vector databases, tool calling, multi-agent workflows, LangGraph, and autonomous reasoning systems.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB347,50:FF6EC7,100:7C4DFF&height=4&section=header" width="100%"/>
+</div>
 
-**Evaluation & Reliability** — automated evaluation pipelines, hallucination detection, regression testing, observability, tracing, and production monitoring.
+## 🚀 Projects
 
-**AI Infrastructure** — FastAPI services, Docker, Kubernetes, Kafka, Redis, PostgreSQL, distributed systems, CI/CD, and cloud deployment.
+<!-- Replace each block below with your real project details -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&section=header" width="100%"/>
+### 🔹 [Project Name One]
+**[One-line description of what it does and why it's interesting]**
 
-## How I Work
+`Python` `FastAPI` `LangGraph` — swap for your actual stack
+Key detail: [a metric, scale, or technical challenge worth bragging about]
+[Live Demo](#) · [Source Code](#)
 
-I build things myself before reaching for a library—that's how I learn what the abstraction should have done for me.
+---
 
-I read the paper before the explainer because the tradeoffs live in the paper, not the summary.
+### 🔹 [Project Name Two]
+**[One-line description]**
 
-When something breaks in production, I write down what I learned. That's where the real engineering lessons are—not in the parts that worked the first time.
+`[stack]`
+Key detail: [metric / challenge]
+[Live Demo](#) · [Source Code](#)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&section=header" width="100%"/>
+---
 
-## Stack
+### 🔹 [Project Name Three]
+**[One-line description]**
+
+`[stack]`
+Key detail: [metric / challenge]
+[Live Demo](#) · [Source Code](#)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,50:00C6FF,100:00E5A0&height=4&section=header" width="100%"/>
+</div>
+
+## 💪 Skills
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/singhdeepesh20/singhdeepesh20/main/assets/skill-bars.svg" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -56,7 +93,7 @@ When something breaks in production, I write down what I learned. That's where t
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C4DFF?style=for-the-badge)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -65,15 +102,15 @@ When something breaks in production, I write down what I learned. That's where t
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&section=header" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,50:FFB347,100:FF6EC7&height=4&section=header" width="100%"/>
+</div>
 
-## Forward Pass
+## 🧬 Forward Pass
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/singhdeepesh20/singhdeepesh20/main/assets/neural-net.svg" width="100%"/>
@@ -81,6 +118,6 @@ When something breaks in production, I write down what I learned. That's where t
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer&text=Building%20systems%20that%20survive%20production—not%20just%20demos.&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,25:00C6FF,50:7C4DFF,75:FF6EC7,100:FFB347&height=140&section=footer&text=Building%20systems%20that%20survive%20production—not%20just%20demos.&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>

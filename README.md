@@ -73,11 +73,11 @@ When something breaks in production, I write down what I learned. That's where t
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=3&section=header" width="100%"/>
 
-## Contribution Snake
+## Loss Curve
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/singhdeepesh20/singhdeepesh20/output/github-contribution-grid-snake.svg" width="100%"/>
-<!--END_SECTION:snake-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/singhdeepesh20/singhdeepesh20/main/assets/loss-curve.svg" width="100%"/>
+</div>
 
 <div align="center">
 

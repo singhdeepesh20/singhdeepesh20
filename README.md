@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,25:7C4DFF,50:00C6FF,75:00E5A0,100:FFB347&height=220&section=header&text=Deepesh%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Product%20Engineer%20—%20building%20the%20LLM%20systems%20users%20actually%20touch&descAlignY=58&descSize=18" width="100%"/>
 
@@ -28,7 +28,7 @@ I build the parts of AI systems that don't show up in a demo—streaming, contex
 
 A model that works once in a notebook and a system that holds up under production traffic are different problems, and I'm more interested in the second one.
 
-I build things myself before reaching for a library. I read the paper before the explainer because the tradeoffs live in the paper, not the summary. When something breaks in production, I write down what I learned — that's where the real engineering lessons are.
+I don't just prototype AI features—I ship AI products end to end: designing the architecture, building the pipeline, hardening it against real traffic, and owning what happens when it breaks. When something fails in production, I write down what I learned—that's where the real engineering lessons are, not in the first version that worked once.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:00E5A0,100:FFB347&height=4&section=header" width="100%"/>
@@ -46,39 +46,6 @@ I build things myself before reaching for a library. I read the paper before the
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFB347,50:FF6EC7,100:7C4DFF&height=4&section=header" width="100%"/>
-</div>
-
-## 🚀 Projects
-
-<!-- Replace each block below with your real project details -->
-
-### 🔹 [Project Name One]
-**[One-line description of what it does and why it's interesting]**
-
-`Python` `FastAPI` `LangGraph` — swap for your actual stack
-Key detail: [a metric, scale, or technical challenge worth bragging about]
-[Live Demo](#) · [Source Code](#)
-
----
-
-### 🔹 [Project Name Two]
-**[One-line description]**
-
-`[stack]`
-Key detail: [metric / challenge]
-[Live Demo](#) · [Source Code](#)
-
----
-
-### 🔹 [Project Name Three]
-**[One-line description]**
-
-`[stack]`
-Key detail: [metric / challenge]
-[Live Demo](#) · [Source Code](#)
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,50:00C6FF,100:00E5A0&height=4&section=header" width="100%"/>
 </div>
 
 ## 💪 Skills
@@ -110,10 +77,21 @@ Key detail: [metric / challenge]
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,50:FFB347,100:FF6EC7&height=4&section=header" width="100%"/>
 </div>
 
-## 🧬 Forward Pass
+## ⚡ AI Core
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/singhdeepesh20/singhdeepesh20/main/assets/neural-net.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/singhdeepesh20/singhdeepesh20/main/assets/ai-core.svg" width="60%"/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,50:00C6FF,100:00E5A0&height=4&section=header" width="100%"/>
+</div>
+
+## 📊 Live Stats
+
+<!-- Placeholder numbers — swap for your real figures -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/singhdeepesh20/singhdeepesh20/main/assets/ai-stats.svg" width="100%"/>
 </div>
 
 <div align="center">

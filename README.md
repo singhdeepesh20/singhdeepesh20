@@ -53,7 +53,7 @@ I enjoy building the complete system—from architecture and backend engineering
 
 ### AI
 
-PyTorch • Hugging Face • Transformers • LangChain • LangGraph • vLLM • OpenAI API • Groq
+Machine learning •Deep learning •PyTorch • Hugging Face • Transformers • LangChain • LangGraph • vLLM • OpenAI API • Groq
 
 ### Retrieval
 

@@ -13,7 +13,7 @@
 
 ## About
 
-I build AI products powered by Large Language Models—from the first prototype to production-ready application
+I build AI products powered by Large Language Models—from the first prototype to production-ready applications
 
 My work focuses on designing complete AI systems that combine LLMs, retrieval, agents, APIs, and modern cloud infrastructure into products that people can actually use.
 

@@ -51,27 +51,27 @@ I enjoy building the complete system—from architecture and backend engineering
 
 ### Tech Stack
 
-### AI
+#### AI
 
 Machine learning •Deep learning •PyTorch • Hugging Face • Transformers • LangChain • LangGraph • vLLM • OpenAI API • Groq
 
-### Retrieval
+#### Retrieval
 
 FAISS • Qdrant • Chroma • BM25 • Hybrid Search • RAG
 
-### Backend
+#### Backend
 
 Python • FastAPI • REST APIs • WebSockets • JWT • Background Workers
 
-### Infrastructure
+#### Infrastructure
 
 Docker • Kubernetes • Redis • PostgreSQL • Kafka • AWS • GitHub Actions
 
-### Engineering
+#### Engineering
 
 System Design • AI Architecture • Evaluation • Monitoring • CI/CD
 
-## Long-Term Goal
+### Long-Term Goal
 
 Build AI products that solve real problems by combining modern machine learning with reliable software engineering.
 
@@ -86,7 +86,7 @@ I'm especially interested in:
 
   <div align="center">
 
-### Building AI products—not just AI demos.
+#### Building AI products—not just AI demos.
 Design • Build • Deploy • Measure • Improve
 
 <img src="https://raw.githubusercontent.com/singhdeepesh20/singhdeepesh20/main/assets/lifecycle.svg" width="100%"/>

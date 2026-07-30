@@ -11,7 +11,7 @@
 
 </div>
 
-## About
+### About
 
 I build AI products powered by Large Language Models—from the first prototype to production-ready applications
 
@@ -29,7 +29,7 @@ Rather than treating an LLM as the product, I focus on everything around it:
 
 I'm interested in solving product problems with AI, not simply integrating language models into applications.
 
-## What I Build
+### What I Build
 
 | Domain | Focus |
 |---------|-------|
@@ -41,7 +41,7 @@ I'm interested in solving product problems with AI, not simply integrating langu
 | **Evaluation** | Prompt evaluation, hallucination detection, tracing, monitoring |
 | **Infrastructure** | Docker, Kubernetes, Redis, PostgreSQL, Kafka, CI/CD, AWS |
 
-## Engineering Philosophy
+### Engineering Philosophy
 
 Building an AI product is much more than connecting an LLM to a chat interface.
 
@@ -49,7 +49,7 @@ A production system requires reliable retrieval, scalable APIs, efficient infere
 
 I enjoy building the complete system—from architecture and backend engineering to the AI pipeline—while continuously improving reliability, performance, and user experience.
 
-## Tech Stack
+### Tech Stack
 
 ### AI
 

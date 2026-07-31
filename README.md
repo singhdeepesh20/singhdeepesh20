@@ -87,7 +87,7 @@ I'm especially interested in:
   <div align="center">
 
 #### Building AI products—not just AI demos.
-Design • Build • Deploy • Measure • Improve
+Design • Build 
 
 <img src="https://raw.githubusercontent.com/singhdeepesh20/singhdeepesh20/main/assets/lifecycle.svg" width="100%"/>
 

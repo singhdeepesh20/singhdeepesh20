@@ -11,7 +11,7 @@
 
 </div>
 
-### About
+### About section
 
 I build AI products powered by Large Language Models—from the first prototype to production-ready applications
 

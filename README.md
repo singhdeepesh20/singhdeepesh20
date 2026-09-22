@@ -29,7 +29,7 @@ Rather than treating an LLM as the product, I focus on everything around it:
 
 I'm interested in solving product problems with AI, not simply integrating language models into applications.
 
-### What I Build
+### What I 
 
 | Domain | Focus |
 |---------|-------|

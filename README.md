@@ -1,15 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=210&section=header&text=Deepesh%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Product%20Engineer%20•%20Building%20LLM%20Applications%20from%20Idea%20to%20Production&descAlignY=58&descSize=16"/>
-
-<a href="https://www.linkedin.com/in/contactdeepesh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mr.deepesh.singh00@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<!-- Header banner --> <div align="center"> <img src="assets/hero(1).svg" width="100%" alt="Deepesh Singh, AI Product Engineer"/> </div>
 
 ### About
 

@@ -94,6 +94,4 @@ flowchart LR
 
 **Goal:** build AI infrastructure and products that stay fast, reliable, and affordable as they grow.
 
-*Building AI products, not just AI demos.*
-
 </div>

@@ -42,17 +42,6 @@ Models are a commodity. Fast, reliable, affordable systems around them are not. 
 
 How I think about a production AI product on AWS:
 
-```mermaid
-flowchart LR
-    U["Client"] --> E["CloudFront + WAF"] --> G["ALB + Auth"] --> A["FastAPI on EKS"]
-    A --> C[("Redis cache")]
-    A --> O["LangGraph agents"]
-    O --> L["vLLM inference"]
-    O --> V[("Qdrant")]
-    A --> K["Kafka"] --> W["Workers"] --> V
-    A -.-> M["OpenTelemetry, Prometheus, Grafana"]
-```
-
 **Scaling playbook**
 
 | Challenge | Approach |

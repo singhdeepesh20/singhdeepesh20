@@ -1,4 +1,4 @@
-<!-- Header banner --> <div align="center"> <img src="assets/hero(1).svg" width="100%" alt="Deepesh Singh, AI Product Engineer"/> </div>
+<!-- Header banner --> <div align="center"> <img src="assets/hero (1).svg" width="100%" alt="Deepesh Singh, AI Product Engineer"/> </div>
 
 ### About
 

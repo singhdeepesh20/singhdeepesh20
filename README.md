@@ -1,22 +1,13 @@
 <!-- Header banner --> <div align="center"> <img src="assets/hero (1).svg" width="100%" alt="Deepesh Singh, AI Product Engineer"/> </div>
 
-### About
+📬 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/contactdeepesh"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:mr.deepesh.singh00@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
 
-I build AI products powered by Large Language Models—from the first prototype to production-ready applications
+<br/><br/>
 
-My work focuses on designing complete AI systems that combine LLMs, retrieval, agents, APIs, and modern cloud infrastructure into products that people can actually use.
+Open to conversations about AI products, LLM systems, and collaboration.
 
-Rather than treating an LLM as the product, I focus on everything around it:
-
-- reliable retrieval pipelines
-- conversational memory
-- streaming responses
-- tool use and AI agents
-- evaluation and observability
-- scalable backend services
-- deployment and monitoring
-
-I'm interested in solving product problems with AI, not simply integrating language models into applications.
+</div>  
 
 ### What I 
 

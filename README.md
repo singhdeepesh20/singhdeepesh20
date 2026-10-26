@@ -25,7 +25,7 @@ Models are a commodity. Fast, reliable, affordable systems around them are not. 
 
 ---
 
-## Core Competencies
+### Core Competencies
 
 | Area | What I work on |
 |:--|:--|

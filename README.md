@@ -15,7 +15,7 @@
 
 ---
 
-## About
+### About
 
 I'm an AI Product Engineer who builds LLM products end to end, from first prototype to production, with a focus on the systems that make them scale.
 

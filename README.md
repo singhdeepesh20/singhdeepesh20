@@ -54,7 +54,7 @@ How I think about a production AI product on AWS:
 
 ---
 
-## Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,kubernetes,aws,terraform,githubactions,redis,postgres,kafka,grafana&theme=dark" alt="Tech stack icons"/>

@@ -70,7 +70,7 @@ How I think about a production AI product on AWS:
 
 ---
 
-## Engineering Principles
+### Engineering Principles
 
 1. **Design for failure.** Timeouts, retries, fallbacks, and idempotency from day one.
 2. **Measure before shipping.** SLOs and evals decide when a change goes out.

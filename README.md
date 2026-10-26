@@ -38,7 +38,7 @@ Models are a commodity. Fast, reliable, affordable systems around them are not. 
 
 ---
 
-## System at a Glance
+### System at a Glance
 
 How I think about a production AI product on AWS:
 

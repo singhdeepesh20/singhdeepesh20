@@ -16,7 +16,7 @@
 ---
 
 ### Deepesh Singh
-### AI Engineer · Generative AI · AI Systems · Backend Engineering
+#### AI Engineer · Generative AI · AI Systems · Backend Engineering
 
 I engineer AI-powered systems with a focus on LLM infrastructure, advanced retrieval systems, agentic architectures, and scalable backend engineering.
 
@@ -26,7 +26,7 @@ I care about more than making AI work. I care about understanding how it works, 
 
 ---
 
-AREAS OF FOCUS
+##### AREAS OF FOCUS
 
 - Generative AI: LLM applications, inference workflows, prompt engineering, and model integration.
 - Retrieval Systems: Advanced RAG, hybrid search, reranking, embeddings, and retrieval evaluation.
@@ -36,7 +36,7 @@ AREAS OF FOCUS
 
 ---
 
-TECHNICAL EXPERTISE
+##### TECHNICAL EXPERTISE
 
 01 · Programming & Computer Science
 
@@ -87,7 +87,7 @@ TECHNICAL EXPERTISE
 
 ---
 
-CURRENTLY EXPLORING
+##### CURRENTLY EXPLORING
 
 - Production-grade Generative AI architectures
 - Advanced RAG and information retrieval
@@ -97,7 +97,7 @@ CURRENTLY EXPLORING
 
 ---
 
-ENGINEERING PHILOSOPHY
+##### ENGINEERING PHILOSOPHY
 
 «Build systems, not just demos.
 Measure quality, not just outputs.

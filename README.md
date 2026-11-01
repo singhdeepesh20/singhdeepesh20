@@ -51,28 +51,6 @@ Docker · AWS · Qdrant · FAISS · Git
 
 ---
 
-SELECTED ENGINEERING PROJECTS
-
-01. Niramaya AI — Intelligent Medical Records Platform
-
-An AI-powered medical document intelligence platform focused on transforming unstructured medical records into searchable, structured, and contextual health information.
-
-Focus: Document processing · RAG · Vector Search · Backend Architecture · Data Security
-
-02. ReplayOS — [One-line project description]
-
-[Describe the problem it solves and the core technical approach.]
-
-Focus: Agentic AI · System Architecture · Evaluation · Backend Engineering
-
-03. DeepSearch — AI-Powered Document Intelligence
-
-A document intelligence system that enables semantic searc
-
-Focus: RAG · Embeddings · Vector Databases · Semantic Retrieval
-
----
-
 CURRENTLY EXPLORING
 
 - Production-grade Generative AI architectures

@@ -16,7 +16,7 @@
 ---
 
 ### Deepesh Singh
-#### AI Engineer · Generative AI · AI Systems · Backend Engineering
+AI Engineer · Generative AI · AI Systems · Backend Engineering
 
 I engineer AI-powered systems with a focus on LLM infrastructure, advanced retrieval systems, agentic architectures, and scalable backend engineering.
 

@@ -104,8 +104,4 @@ ENGINEERING PHILOSOPHY
 Measure quality, not just outputs.
 Engineer for reliability, not just functionality.»
 
----
 
-CONNECT
-
-"LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:YOUR_EMAIL)

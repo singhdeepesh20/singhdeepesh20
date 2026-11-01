@@ -15,72 +15,82 @@
 
 ---
 
-### About
+Deepesh Singh
 
-I'm an AI Product Engineer who builds LLM products end to end, from first prototype to production, with a focus on the systems that make them scale.
+AI Engineer · Generative AI · AI Systems · Backend Engineering
 
-Models are a commodity. Fast, reliable, affordable systems around them are not. That is the layer I design: **retrieval, inference, infrastructure, delivery, and observability.**
+I engineer AI-powered systems with a focus on LLM infrastructure, advanced retrieval systems, agentic architectures, and scalable backend engineering.
 
-**Currently:** building production-grade RAG and agentic systems, and going deeper on system design, AWS, and DevOps.
+My interests lie at the intersection of AI research and production engineering — designing systems that are reliable, measurable, secure, and capable of solving complex real-world problems.
 
----
-
-### Core Competencies
-
-| Area | What I work on |
-|:--|:--|
-| **LLM Applications** | Copilots, document intelligence, conversational systems with memory and streaming |
-| **Retrieval** | RAG, hybrid search (dense + BM25), reranking, vector databases |
-| **Agentic AI** | Multi-agent workflows, tool calling, planning with LangGraph |
-| **System Design** | Latency budgets, caching layers, queues, backpressure, multi-tenancy |
-| **Infrastructure and DevOps** | AWS, Docker, Kubernetes, Terraform, CI/CD, GitOps |
-| **Evaluation and Observability** | Eval datasets, tracing, monitoring, SLO-driven releases |
+I care about more than making AI work. I care about understanding how it works, how it scales, how it fails, and how to make it reliable.
 
 ---
 
-### System at a Glance
+AREAS OF FOCUS
 
-How I think about a production AI product on AWS:
+- Generative AI: LLM applications, inference workflows, prompt engineering, and model integration.
+- Retrieval Systems: Advanced RAG, hybrid search, reranking, embeddings, and retrieval evaluation.
+- Agentic Systems: Tool use, multi-agent orchestration, state management, and agent evaluation.
+- AI Infrastructure: Model serving, asynchronous processing, caching, and scalable AI pipelines.
+- Backend Engineering: Distributed systems, API design, database architecture, and system reliability.
 
-**Scaling playbook**
+TECHNOLOGY
 
-| Challenge | Approach |
-|:--|:--|
-| Slow first token | Stream over SSE, semantic cache, continuous batching |
-| Traffic spikes | Queue-backed workers, backpressure, autoscaling |
-| GPU cost | Quantization, right-sized nodes, scale down when idle |
-| Provider outages | Gateway routing, retries, fallbacks |
-| Bad releases | Eval gates in CI, canary rollout, automatic rollback |
+Languages
+Python · C++ · JavaScript · SQL
 
----
+AI / ML
+PyTorch · Scikit-learn · LangChain · LangGraph
 
-### Tech Stack
+Backend & Data
+FastAPI · Node.js · PostgreSQL · Redis
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,kubernetes,aws,terraform,githubactions,redis,postgres,kafka,grafana&theme=dark" alt="Tech stack icons"/>
-</p>
-
-| Category | Tools |
-|:--|:--|
-| **AI** | PyTorch, Hugging Face, LangChain, LangGraph, vLLM, OpenAI API, Groq |
-| **Retrieval** | FAISS, Qdrant, Chroma, BM25, hybrid search |
-| **Backend** | Python, FastAPI, REST, WebSockets, JWT |
-| **Infrastructure** | Docker, Kubernetes, Redis, PostgreSQL, Kafka, AWS, GitHub Actions |
-
+Infrastructure & Search
+Docker · AWS · Qdrant · FAISS · Git
 
 ---
 
-### Engineering Principles
+SELECTED ENGINEERING PROJECTS
 
-1. **Design for failure.** Timeouts, retries, fallbacks, and idempotency from day one.
-2. **Measure before shipping.** SLOs and evals decide when a change goes out.
-3. **Treat cost as a feature.** Track tokens, GPU time, and cache hit rate like latency.
-4. **Ship small, roll back fast.** Canary every release and automate the exit.
+01. Niramaya AI — Intelligent Medical Records Platform
+
+An AI-powered medical document intelligence platform focused on transforming unstructured medical records into searchable, structured, and contextual health information.
+
+Focus: Document processing · RAG · Vector Search · Backend Architecture · Data Security
+
+02. ReplayOS — [One-line project description]
+
+[Describe the problem it solves and the core technical approach.]
+
+Focus: Agentic AI · System Architecture · Evaluation · Backend Engineering
+
+03. DeepSearch — AI-Powered Document Intelligence
+
+A document intelligence system that enables semantic searc
+
+Focus: RAG · Embeddings · Vector Databases · Semantic Retrieval
 
 ---
 
-<div align="center">
+CURRENTLY EXPLORING
 
-**Goal:** build AI infrastructure and products that stay fast, reliable, and affordable as they grow.
+- Production-grade Generative AI architectures
+- Advanced RAG and information retrieval
+- Agentic systems and orchestration
+- LLM evaluation and reliability engineering
+- Distributed systems and AI infrastructure
 
-</div>
+---
+
+ENGINEERING PHILOSOPHY
+
+«Build systems, not just demos.
+Measure quality, not just outputs.
+Engineer for reliability, not just functionality.»
+
+---
+
+CONNECT
+
+"LinkedIn" (YOUR_LINKEDIN_URL) · "Email" (mailto:YOUR_EMAIL)

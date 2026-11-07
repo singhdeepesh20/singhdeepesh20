@@ -1,8 +1,6 @@
-
-
 <p align="center">
   <img
-    src="https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ke4vekt5oa2aedhxevoh"
+    src="https://i.ibb.co/MyQkHZwx/Screenshot-2026-11-07-at-4-43-21-AM.png"
     alt="Deepesh Singh"
     width="2500"
   />

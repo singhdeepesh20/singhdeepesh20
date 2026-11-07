@@ -37,56 +37,6 @@ I care about more than making AI work. I care about understanding how it works, 
 
 ---
 
-##### TECHNICAL EXPERTISE
-
-01 · Programming & Computer Science
-
-- Python · C++ · JavaScript · SQL
-- Data Structures & Algorithms
-- Object-Oriented Programming · Concurrency
-
-02 · Machine Learning & Deep Learning
-
-- PyTorch · Scikit-learn
-- Neural Networks · Model Training
-- Model Evaluation · Experimentation
-
-03 · LLM Engineering & Agentic Systems
-
-- LLM Applications · Prompt Engineering
-- LangChain · LangGraph
-- Tool Calling · Agent Orchestration
-- Structured Outputs · Model Integration
-
-04 · Retrieval & Knowledge Systems
-
-- Advanced RAG · Hybrid Search
-- Embeddings · Reranking
-- Qdrant · FAISS
-- Retrieval Evaluation · Semantic Search
-
-05 · Backend & Distributed Systems
-
-- FastAPI · Node.js
-- REST APIs · Async Processing
-- PostgreSQL · Redis
-- API Design · Distributed Systems
-
-06 · AI Infrastructure & Cloud
-
-- Docker · AWS
-- Model Serving · Inference Workflows
-- Background Workers · Caching
-- CI/CD · Deployment
-
-07 · Engineering Practices
-
-- Git · GitHub · Linux
-- Automated Testing · CI/CD
-- System Design · API Documentation
-- Observability · Security Engineering
-
----
 
 ##### CURRENTLY EXPLORING
 

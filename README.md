@@ -35,10 +35,6 @@ My flagship engineering project. [Browse my repositories on GitHub](https://gith
 <!-- Generated daily from GitHub's contribution calendar. -->
 <img src="assets/github/contribution-overview.svg" alt="Contribution totals, monthly bars, and streak statistics" width="100%" />
 
-## Monthly contribution analytics
-
-<img src="assets/github/monthly-activity.svg" alt="Monthly totals, active days, averages, and peak daily contributions" width="100%" />
-
 ## Blue contribution heatmap
 
 <img src="assets/github/contribution-heatmap.svg" alt="Daily contribution heatmap for the last 12 calendar months" width="100%" />

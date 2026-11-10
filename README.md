@@ -8,46 +8,44 @@
   <a href="https://github.com/singhdeepesh20">GitHub</a>
 </p>
 
-# Deepesh Singh
+#### Deepesh Singh
+AI Engineer · LLM & Backend Systems
 
-**Robotics & Automation Engineering Student · AI Engineer · AI Backend Developer**
+I build RAG and agentic AI systems, and the backend that keeps them reliable in production.
 
-I build AI-powered software with an interest in reliable backend systems, retrieval, and practical machine learning.
+##### About me
 
-## About me
+I work on the part of AI engineering that comes after the demo: retrieval that returns the right context, agents that coordinate tools predictably, and services that keep working under real load. I’m a Robotics & Automation Engineering student, and I learn by shipping.
 
-My work sits between AI engineering and backend development. I’m interested in how AI systems retrieve information, coordinate tools, and operate reliably beyond a prototype. I’m currently studying Robotics & Automation Engineering and learning by building.
+My main project is Niramaya-AI, a health record platform that turns medical reports into searchable, structured records using RAG. It runs on Next.js, FastAPI, Kafka and Qdrant.
 
-## Technical expertise
+##### What I work with
 
-- **AI engineering:** RAG systems, LLM applications, model integration, and evaluation
-- **AI infrastructure:** asynchronous workflows, retrieval pipelines, and production AI systems
-- **Systems:** backend engineering, API design, multi-agent systems, and machine learning
+* LLM & agentic systems: RAG pipelines, LangGraph agents, LLM evaluation
+* Retrieval: Qdrant, FAISS, hybrid search, reranking
+* Backend: FastAPI, async workflows, Kafka, Redis, PostgreSQL
+* Serving & model integration: vLLM, Hugging Face
+* Cloud & deployment: AWS, Docker, Kubernetes, GitHub Actions CI/CD
+* Machine learning: PyTorch, Hugging Face
 
-## Featured engineering projects
+#### Featured engineering projects
 
-### Niramaya AI
+##### Niramaya AI
 
 My flagship engineering project. [Browse my repositories on GitHub](https://github.com/singhdeepesh20?tab=repositories).
 
-## GitHub contribution overview
+#### GitHub contribution overview
 
 <!-- Generated daily from GitHub's contribution calendar. -->
 <img src="assets/github/contribution-overview.svg" alt="Contribution totals, monthly bars, and streak statistics" width="100%" />
 
-## Blue contribution heatmap
+#### Blue contribution heatmap
 
 <img src="assets/github/contribution-heatmap.svg" alt="Daily contribution heatmap for the last 12 calendar months" width="100%" />
 
-## Featured repositories
+#### Featured repositories
 
 <img src="assets/github/repositories.svg" alt="Featured public GitHub repositories" width="100%" />
-
-## Connect with me
-
-- [Portfolio](https://deepesh-singh-portfolio.vercel.app/)
-- [LinkedIn](https://linkedin.com/in/contactdeepesh)
-- [GitHub](https://github.com/singhdeepesh20)
 
 ---
 

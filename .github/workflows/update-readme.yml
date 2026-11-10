@@ -1,0 +1,48 @@
+name: Refresh GitHub profile analytics
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/**"
+      - "tests/**"
+      - "preview/**"
+      - "requirements-dev.txt"
+      - ".github/workflows/update-readme.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch GitHub data and render cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/fetch_github_data.py
+          STATIC=1 python scripts/render_readme_cards.py
+      - name: Install validation dependencies
+        run: python -m pip install -r requirements-dev.txt
+      - name: Run analytics tests
+        run: pytest -q
+      - name: Install Chromium visual QA
+        run: python -m playwright install --with-deps chromium
+      - name: Validate SVGs and capture preview
+        run: python scripts/validate_svgs.py --browser
+      - name: Commit refreshed assets when changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json assets/github
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh GitHub profile analytics"
+            git push
+          fi

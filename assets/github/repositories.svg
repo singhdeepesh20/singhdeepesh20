@@ -21,21 +21,21 @@
 <text x="38" y="254" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >AI Finance Copilot is a Streamlit-powered app that combines Groq LLMs with Tavily search to deliver real-time </text>
 <text x="960" y="233" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >Python   ·   ★ 0</text>
 <line x1="38" y1="278" x2="962" y2="278" stroke="#E5E5E2"/>
-<a href="https://github.com/singhdeepesh20/credit-card-fraud-mlops">
-<text x="38" y="301" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >credit-card-fraud-mlops</text>
-</a>
-<text x="38" y="324" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >Public project</text>
-<text x="960" y="303" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >—   ·   ★ 0</text>
-<line x1="38" y1="348" x2="962" y2="348" stroke="#E5E5E2"/>
-<a href="https://github.com/singhdeepesh20/deepesh-singh-portfolio">
-<text x="38" y="371" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >deepesh-singh-portfolio</text>
-</a>
-<text x="38" y="394" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >Public project</text>
-<text x="960" y="373" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >JavaScript   ·   ★ 0</text>
-<line x1="38" y1="418" x2="962" y2="418" stroke="#E5E5E2"/>
 <a href="https://github.com/singhdeepesh20/DeepScholar">
-<text x="38" y="441" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >DeepScholar</text>
+<text x="38" y="301" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >DeepScholar</text>
 </a>
-<text x="38" y="464" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >An agentic AI system that combines web search (ArXiv, Wikipedia, DuckDuckGo) with PDF-based retrieval QA, powe</text>
+<text x="38" y="324" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >An agentic AI system that combines web search (ArXiv, Wikipedia, DuckDuckGo) with PDF-based retrieval QA, powe</text>
+<text x="960" y="303" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >Python   ·   ★ 0</text>
+<line x1="38" y1="348" x2="962" y2="348" stroke="#E5E5E2"/>
+<a href="https://github.com/singhdeepesh20/deepsearchagent">
+<text x="38" y="371" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >deepsearchagent</text>
+</a>
+<text x="38" y="394" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >DeepSearch is an AI-powered intelligent search agent built with LangChain and Groq’s LLM API, designed for fas</text>
+<text x="960" y="373" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >Python   ·   ★ 0</text>
+<line x1="38" y1="418" x2="962" y2="418" stroke="#E5E5E2"/>
+<a href="https://github.com/singhdeepesh20/DocuMind">
+<text x="38" y="441" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >DocuMind</text>
+</a>
+<text x="38" y="464" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >DocuMind is an intelligent document interaction platform that turns static files into dynamic, searchable know</text>
 <text x="960" y="443" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >Python   ·   ★ 0</text>
 </svg>

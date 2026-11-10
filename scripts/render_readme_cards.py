@@ -131,6 +131,10 @@ def render_streak(a: dict) -> str:
 
 def render_repositories(repos: list[dict]) -> str:
     # Show true public repository metadata, prioritizing the named flagship if it exists.
+    repos = [repo for repo in repos if not (
+        "portfolio" in repo.get("name", "").lower()
+        or ("credit" in repo.get("name", "").lower() and "fraud" in repo.get("name", "").lower())
+    )]
     repos = sorted(repos, key=lambda r: ("niramaya" not in r.get("name", "").lower(), -int(r.get("stargazerCount", 0)), r.get("name", "").lower()))[:6]
     h = 142 + max(1, len(repos))*70
     s = svg_start(1000, h, "Featured public repositories")

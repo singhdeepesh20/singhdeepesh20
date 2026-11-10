@@ -29,6 +29,16 @@ class RenderingTests(unittest.TestCase):
         card = render_heatmap(analytics)
         self.assertIn("2026-11-09: 7 contributions · level 3", card)
 
+    def test_featured_repositories_omit_requested_projects(self):
+        card = render_repositories([
+            {"name": "Credit-Card-Fraud-Detection", "url": "https://github.com/example/fraud", "stargazerCount": 4},
+            {"name": "Deepesh-Portfolio", "url": "https://github.com/example/portfolio", "stargazerCount": 3},
+            {"name": "Niramaya-AI", "url": "https://github.com/example/niramaya", "stargazerCount": 1},
+        ])
+        self.assertNotIn("Credit-Card-Fraud-Detection", card)
+        self.assertNotIn("Deepesh-Portfolio", card)
+        self.assertIn("Niramaya-AI", card)
+
 
 if __name__ == "__main__":
     unittest.main()

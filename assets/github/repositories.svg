@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 562" width="1000" height="562" role="img" aria-label="Featured public repositories">
+<style>text{font-synthesis:none} .mono{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', monospace} .serif{font-family:Georgia, 'Times New Roman', serif}</style>
+<rect width="1000" height="562" rx="18" fill="#F4F4F1"/>
+<rect x="1" y="1" width="998" height="560" rx="18" fill="#FFFFFF" stroke="#E5E5E2"/>
+<text x="38" y="43" class="mono" font-size="11" fill="#737373" font-weight="600" text-anchor="start" letter-spacing="1.5">SELECTED PUBLIC REPOSITORIES</text>
+<a href="https://github.com/singhdeepesh20/Niramaya-AI">
+<text x="38" y="91" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >Niramaya-AI</text>
+</a>
+<text x="38" y="114" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >Niramaya AI is an AI-powered platform that transforms scattered medical reports into a searchable, intelligent</text>
+<text x="960" y="93" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >Python   ·   ★ 0</text>
+<line x1="38" y1="138" x2="962" y2="138" stroke="#E5E5E2"/>
+<a href="https://github.com/singhdeepesh20/News-Research-Agent">
+<text x="38" y="161" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >News-Research-Agent</text>
+</a>
+<text x="38" y="184" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >News Research Agent  An AI-powered news analysis tool that extracts, filters, and summarizes the most importan</text>
+<text x="960" y="163" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >Python   ·   ★ 1</text>
+<line x1="38" y1="208" x2="962" y2="208" stroke="#E5E5E2"/>
+<a href="https://github.com/singhdeepesh20/AI-Finance-Copilot">
+<text x="38" y="231" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >AI-Finance-Copilot</text>
+</a>
+<text x="38" y="254" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >AI Finance Copilot is a Streamlit-powered app that combines Groq LLMs with Tavily search to deliver real-time </text>
+<text x="960" y="233" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >Python   ·   ★ 0</text>
+<line x1="38" y1="278" x2="962" y2="278" stroke="#E5E5E2"/>
+<a href="https://github.com/singhdeepesh20/credit-card-fraud-mlops">
+<text x="38" y="301" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >credit-card-fraud-mlops</text>
+</a>
+<text x="38" y="324" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >Public project</text>
+<text x="960" y="303" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >—   ·   ★ 0</text>
+<line x1="38" y1="348" x2="962" y2="348" stroke="#E5E5E2"/>
+<a href="https://github.com/singhdeepesh20/deepesh-singh-portfolio">
+<text x="38" y="371" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >deepesh-singh-portfolio</text>
+</a>
+<text x="38" y="394" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >Public project</text>
+<text x="960" y="373" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >JavaScript   ·   ★ 0</text>
+<line x1="38" y1="418" x2="962" y2="418" stroke="#E5E5E2"/>
+<a href="https://github.com/singhdeepesh20/DeepScholar">
+<text x="38" y="441" class="serif" font-size="18" fill="#111111" font-weight="600" text-anchor="start" >DeepScholar</text>
+</a>
+<text x="38" y="464" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="start" >An agentic AI system that combines web search (ArXiv, Wikipedia, DuckDuckGo) with PDF-based retrieval QA, powe</text>
+<text x="960" y="443" class="mono" font-size="10" fill="#737373" font-weight="400" text-anchor="end" >Python   ·   ★ 0</text>
+</svg>

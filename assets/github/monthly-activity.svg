@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1460 360" width="1460" height="360" role="img" aria-label="Monthly contribution analytics">
+<style>text{font-synthesis:none} .mono{font-family:'SFMono-Regular', Consolas, 'Liberation Mono', monospace} .serif{font-family:Georgia, 'Times New Roman', serif}</style>
+<rect width="1460" height="360" rx="18" fill="#F4F4F1"/>
+<rect x="1" y="1" width="1458" height="358" rx="18" fill="#FFFFFF" stroke="#E5E5E2"/>
+<text x="48" y="52" class="mono" font-size="12" fill="#737373" font-weight="600" text-anchor="start" letter-spacing="1.7">MONTHLY ACTIVITY</text>
+<rect x="50" y="245.0" width="98" height="3.0" rx="4" fill="#111111"/>
+<text x="99.0" y="236" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >0</text>
+<text x="99.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Dec 25</text>
+<text x="99.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >0 active days</text>
+<text x="99.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 0.0 · max 0</text>
+<rect x="168" y="245.0" width="98" height="3.0" rx="4" fill="#111111"/>
+<text x="217.0" y="236" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >0</text>
+<text x="217.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Jan 26</text>
+<text x="217.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >0 active days</text>
+<text x="217.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 0.0 · max 0</text>
+<rect x="286" y="245.0" width="98" height="3.0" rx="4" fill="#111111"/>
+<text x="335.0" y="236" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >0</text>
+<text x="335.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Feb 26</text>
+<text x="335.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >0 active days</text>
+<text x="335.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 0.0 · max 0</text>
+<rect x="404" y="192.8" width="98" height="55.2" rx="4" fill="#111111"/>
+<text x="453.0" y="183.75675675675674" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >84</text>
+<text x="453.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Mar 26</text>
+<text x="453.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >15 active days</text>
+<text x="453.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 5.6 · max 14</text>
+<rect x="522" y="193.4" width="98" height="54.6" rx="4" fill="#111111"/>
+<text x="571.0" y="184.4144144144144" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >83</text>
+<text x="571.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Apr 26</text>
+<text x="571.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >23 active days</text>
+<text x="571.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 3.6 · max 5</text>
+<rect x="640" y="182.2" width="98" height="65.8" rx="4" fill="#111111"/>
+<text x="689.0" y="173.23423423423424" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >100</text>
+<text x="689.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >May 26</text>
+<text x="689.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >22 active days</text>
+<text x="689.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 4.5 · max 9</text>
+<rect x="758" y="191.4" width="98" height="56.6" rx="4" fill="#111111"/>
+<text x="807.0" y="182.44144144144144" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >86</text>
+<text x="807.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Jun 26</text>
+<text x="807.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >21 active days</text>
+<text x="807.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 4.1 · max 8</text>
+<rect x="876" y="194.1" width="98" height="53.9" rx="4" fill="#111111"/>
+<text x="925.0" y="185.07207207207207" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >82</text>
+<text x="925.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Jul 26</text>
+<text x="925.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >26 active days</text>
+<text x="925.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 3.2 · max 11</text>
+<rect x="994" y="200.0" width="98" height="48.0" rx="4" fill="#111111"/>
+<text x="1043.0" y="190.99099099099098" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >73</text>
+<text x="1043.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Aug 26</text>
+<text x="1043.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >28 active days</text>
+<text x="1043.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 2.6 · max 4</text>
+<rect x="1112" y="211.2" width="98" height="36.8" rx="4" fill="#111111"/>
+<text x="1161.0" y="202.17117117117118" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >56</text>
+<text x="1161.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Sep 26</text>
+<text x="1161.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >25 active days</text>
+<text x="1161.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 2.2 · max 15</text>
+<rect x="1230" y="102.0" width="98" height="146.0" rx="4" fill="#3155FF"/>
+<text x="1279.0" y="93.0" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >222</text>
+<text x="1279.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Oct 26</text>
+<text x="1279.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >25 active days</text>
+<text x="1279.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 8.9 · max 32</text>
+<rect x="1348" y="225.0" width="98" height="23.0" rx="4" fill="#A0A0A0"/>
+<text x="1397.0" y="215.981981981982" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >35</text>
+<text x="1397.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Nov 26</text>
+<text x="1397.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >9 active days</text>
+<text x="1397.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 3.9 · max 13</text>
+<text x="1410" y="52" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="end" >TOTAL · ACTIVE DAYS · AVG/DAY · PEAK</text>
+</svg>

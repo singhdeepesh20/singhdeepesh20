@@ -13,7 +13,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from calculate_analytics import calculate
 
 OUT = ROOT / "assets" / "github"
-P = {"bg":"#F4F4F1", "card":"#FFFFFF", "ink":"#111111", "sub":"#737373", "muted":"#A0A0A0", "blue":"#3155FF", "l1":"#DCE5FF", "l2":"#AFC1FF", "l3":"#6E8CFF", "dark":"#1938D4", "border":"#E5E5E2", "zero":"#E6E6E2"}
+P = {"bg":"#F4F4F1", "card":"#FFFFFF", "ink":"#111111", "sub":"#737373", "muted":"#A0A0A0", "blue":"#3155FF", "l1":"#6E82D2", "l2":"#5C75D5", "l3":"#4666EA", "dark":"#1938D4", "border":"#E5E5E2", "zero":"#E6E6E2"}
 SERIF = "Georgia, 'Times New Roman', serif"
 MONO = "'SFMono-Regular', Consolas, 'Liberation Mono', monospace"
 

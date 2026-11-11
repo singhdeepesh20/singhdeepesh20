@@ -2,10 +2,6 @@
   "username": "singhdeepesh20",
   "days": [
     {
-      "date": "2025-11-10",
-      "contributionCount": 0
-    },
-    {
       "date": "2025-11-11",
       "contributionCount": 0
     },
@@ -539,7 +535,7 @@
     },
     {
       "date": "2026-03-24",
-      "contributionCount": 7
+      "contributionCount": 12
     },
     {
       "date": "2026-03-25",
@@ -583,7 +579,7 @@
     },
     {
       "date": "2026-04-04",
-      "contributionCount": 4
+      "contributionCount": 5
     },
     {
       "date": "2026-04-05",
@@ -931,15 +927,15 @@
     },
     {
       "date": "2026-06-30",
-      "contributionCount": 2
-    },
-    {
-      "date": "2026-07-01",
       "contributionCount": 4
     },
     {
+      "date": "2026-07-01",
+      "contributionCount": 8
+    },
+    {
       "date": "2026-07-02",
-      "contributionCount": 5
+      "contributionCount": 10
     },
     {
       "date": "2026-07-03",
@@ -955,11 +951,11 @@
     },
     {
       "date": "2026-07-06",
-      "contributionCount": 2
+      "contributionCount": 4
     },
     {
       "date": "2026-07-07",
-      "contributionCount": 6
+      "contributionCount": 12
     },
     {
       "date": "2026-07-08",
@@ -979,15 +975,15 @@
     },
     {
       "date": "2026-07-12",
-      "contributionCount": 11
+      "contributionCount": 22
     },
     {
       "date": "2026-07-13",
-      "contributionCount": 6
+      "contributionCount": 7
     },
     {
       "date": "2026-07-14",
-      "contributionCount": 1
+      "contributionCount": 2
     },
     {
       "date": "2026-07-15",
@@ -1031,7 +1027,7 @@
     },
     {
       "date": "2026-07-25",
-      "contributionCount": 2
+      "contributionCount": 4
     },
     {
       "date": "2026-07-26",
@@ -1039,7 +1035,7 @@
     },
     {
       "date": "2026-07-27",
-      "contributionCount": 3
+      "contributionCount": 6
     },
     {
       "date": "2026-07-28",
@@ -1051,11 +1047,11 @@
     },
     {
       "date": "2026-07-30",
-      "contributionCount": 2
+      "contributionCount": 4
     },
     {
       "date": "2026-07-31",
-      "contributionCount": 2
+      "contributionCount": 4
     },
     {
       "date": "2026-08-01",
@@ -1079,7 +1075,7 @@
     },
     {
       "date": "2026-08-06",
-      "contributionCount": 2
+      "contributionCount": 5
     },
     {
       "date": "2026-08-07",
@@ -1127,7 +1123,7 @@
     },
     {
       "date": "2026-08-18",
-      "contributionCount": 2
+      "contributionCount": 4
     },
     {
       "date": "2026-08-19",
@@ -1175,7 +1171,7 @@
     },
     {
       "date": "2026-08-30",
-      "contributionCount": 2
+      "contributionCount": 4
     },
     {
       "date": "2026-08-31",
@@ -1191,7 +1187,7 @@
     },
     {
       "date": "2026-09-03",
-      "contributionCount": 1
+      "contributionCount": 3
     },
     {
       "date": "2026-09-04",
@@ -1211,7 +1207,7 @@
     },
     {
       "date": "2026-09-08",
-      "contributionCount": 2
+      "contributionCount": 4
     },
     {
       "date": "2026-09-09",
@@ -1255,11 +1251,11 @@
     },
     {
       "date": "2026-09-19",
-      "contributionCount": 2
+      "contributionCount": 3
     },
     {
       "date": "2026-09-20",
-      "contributionCount": 1
+      "contributionCount": 2
     },
     {
       "date": "2026-09-21",
@@ -1267,7 +1263,7 @@
     },
     {
       "date": "2026-09-22",
-      "contributionCount": 1
+      "contributionCount": 2
     },
     {
       "date": "2026-09-23",
@@ -1343,11 +1339,11 @@
     },
     {
       "date": "2026-10-11",
-      "contributionCount": 1
+      "contributionCount": 2
     },
     {
       "date": "2026-10-12",
-      "contributionCount": 3
+      "contributionCount": 4
     },
     {
       "date": "2026-10-13",
@@ -1395,7 +1391,7 @@
     },
     {
       "date": "2026-10-24",
-      "contributionCount": 10
+      "contributionCount": 19
     },
     {
       "date": "2026-10-25",
@@ -1403,7 +1399,7 @@
     },
     {
       "date": "2026-10-26",
-      "contributionCount": 1
+      "contributionCount": 6
     },
     {
       "date": "2026-10-27",
@@ -1431,7 +1427,7 @@
     },
     {
       "date": "2026-11-02",
-      "contributionCount": 7
+      "contributionCount": 14
     },
     {
       "date": "2026-11-03",
@@ -1439,7 +1435,7 @@
     },
     {
       "date": "2026-11-04",
-      "contributionCount": 2
+      "contributionCount": 4
     },
     {
       "date": "2026-11-05",
@@ -1451,7 +1447,7 @@
     },
     {
       "date": "2026-11-07",
-      "contributionCount": 13
+      "contributionCount": 16
     },
     {
       "date": "2026-11-08",
@@ -1459,10 +1455,14 @@
     },
     {
       "date": "2026-11-09",
-      "contributionCount": 1
+      "contributionCount": 2
     },
     {
       "date": "2026-11-10",
+      "contributionCount": 15
+    },
+    {
+      "date": "2026-11-11",
       "contributionCount": 1
     }
   ],
@@ -1529,7 +1529,9 @@
       "url": "https://github.com/singhdeepesh20/singhdeepesh20",
       "description": null,
       "stargazerCount": 0,
-      "primaryLanguage": null
+      "primaryLanguage": {
+        "name": "Python"
+      }
     },
     {
       "name": "hogwart-Vanisher",

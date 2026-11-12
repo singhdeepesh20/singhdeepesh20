@@ -11,7 +11,7 @@
 <text x="270" y="133" class="mono" font-size="10" fill="#A0A0A0" font-weight="400" text-anchor="start" >days</text>
 <text x="270" y="176" class="mono" font-size="10" fill="#737373" font-weight="600" text-anchor="start" >LONGEST STREAK</text>
 <line x1="476" y1="70" x2="476" y2="190" stroke="#E5E5E2"/>
-<text x="500" y="104" class="serif" font-size="44" fill="#111111" font-weight="400" text-anchor="start" >195/346</text>
+<text x="500" y="104" class="serif" font-size="44" fill="#111111" font-weight="400" text-anchor="start" >195/347</text>
 <text x="500" y="133" class="mono" font-size="10" fill="#A0A0A0" font-weight="400" text-anchor="start" >this period</text>
 <text x="500" y="176" class="mono" font-size="10" fill="#737373" font-weight="600" text-anchor="start" >ACTIVE DAYS</text>
 </svg>

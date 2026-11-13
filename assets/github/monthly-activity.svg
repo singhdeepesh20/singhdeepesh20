@@ -58,10 +58,10 @@
 <text x="1279.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Oct 26</text>
 <text x="1279.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >25 active days</text>
 <text x="1279.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 9.5 · max 32</text>
-<rect x="1348" y="209.4" width="98" height="38.6" rx="4" fill="#A0A0A0"/>
-<text x="1397.0" y="200.35294117647058" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >63</text>
+<rect x="1348" y="207.5" width="98" height="40.5" rx="4" fill="#A0A0A0"/>
+<text x="1397.0" y="198.5126050420168" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >66</text>
 <text x="1397.0" y="275" class="mono" font-size="11" fill="#737373" font-weight="400" text-anchor="middle" >Nov 26</text>
-<text x="1397.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >10 active days</text>
-<text x="1397.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 6.3 · max 16</text>
+<text x="1397.0" y="307" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >11 active days</text>
+<text x="1397.0" y="325" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="middle" >avg 6.0 · max 16</text>
 <text x="1410" y="52" class="mono" font-size="9" fill="#A0A0A0" font-weight="400" text-anchor="end" >TOTAL · ACTIVE DAYS · AVG/DAY · PEAK</text>
 </svg>

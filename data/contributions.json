@@ -2,10 +2,6 @@
   "username": "singhdeepesh20",
   "days": [
     {
-      "date": "2025-11-14",
-      "contributionCount": 0
-    },
-    {
       "date": "2025-11-15",
       "contributionCount": 0
     },
@@ -1463,7 +1459,11 @@
     },
     {
       "date": "2026-11-14",
-      "contributionCount": 0
+      "contributionCount": 2
+    },
+    {
+      "date": "2026-11-15",
+      "contributionCount": 3
     }
   ],
   "repositories": [
@@ -1475,6 +1475,13 @@
       "primaryLanguage": {
         "name": "Python"
       }
+    },
+    {
+      "name": "vantora-capital",
+      "url": "https://github.com/singhdeepesh20/vantora-capital",
+      "description": null,
+      "stargazerCount": 0,
+      "primaryLanguage": null
     },
     {
       "name": "deepesh-singh-portfolio",

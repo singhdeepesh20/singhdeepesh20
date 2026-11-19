@@ -2,10 +2,6 @@
   "username": "singhdeepesh20",
   "days": [
     {
-      "date": "2025-11-18",
-      "contributionCount": 0
-    },
-    {
       "date": "2025-11-19",
       "contributionCount": 0
     },
@@ -1463,7 +1459,11 @@
     },
     {
       "date": "2026-11-18",
-      "contributionCount": 0
+      "contributionCount": 3
+    },
+    {
+      "date": "2026-11-19",
+      "contributionCount": 305
     }
   ],
   "repositories": [
@@ -1471,9 +1471,18 @@
       "name": "News-Research-Agent",
       "url": "https://github.com/singhdeepesh20/News-Research-Agent",
       "description": "News Research Agent  An AI-powered news analysis tool that extracts, filters, and summarizes the most important information from any article \u2014 so you can spend less time reading and more time acting on insights.",
-      "stargazerCount": 1,
+      "stargazerCount": 2,
       "primaryLanguage": {
         "name": "Python"
+      }
+    },
+    {
+      "name": "Nexora-AI",
+      "url": "https://github.com/singhdeepesh20/Nexora-AI",
+      "description": "The Open-World University for AI Engineers",
+      "stargazerCount": 0,
+      "primaryLanguage": {
+        "name": "TypeScript"
       }
     },
     {
